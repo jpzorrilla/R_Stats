@@ -9,5 +9,6 @@ Repository with R scripts
 - Linear Model (LM)
 - General Linear Model (GLM)
 
-III. Advanced:
-*To be continued...
+**III. Advanced:**
+- Agent-Based Model (ABM)
+-*To be continued...
