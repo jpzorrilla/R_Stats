@@ -2,7 +2,7 @@
 Repository with R scripts
 
 **I. Unsupervised learning:**
-- Principal Component Analysis (PCP)
+- Principal Component Analysis (PCP) with Bartletts test of sphericity ('testacp' file)
 - Cluster Analysis
 
 **II. Supervised learning:**
@@ -10,5 +10,4 @@ Repository with R scripts
 - General Linear Model (GLM)
 
 **III. Advanced:**
-- Agent-Based Model (ABM)
 - To be continued...
