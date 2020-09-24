@@ -7,7 +7,7 @@ Repository with R scripts
 
 **II. Supervised learning:**
 - Linear Model (LM)
-- General Linear Model (GLM)
+- General Linear Model (GLM) with dabase (RegresionData.csv)
 
 **III. Advanced:**
 - To be continued...
