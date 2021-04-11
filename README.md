@@ -10,4 +10,7 @@ Repository with R scripts
 - General Linear Model (GLM) with dabase (RegresionData.csv)
 
 **III. Advanced:**
-- To be continued...
+- Introduction to Machine Learning
+- Generalized Additive Model (GAM)
+- Classification And Regression Tree (CART)
+- Bagging, Boosting & Random Forests
